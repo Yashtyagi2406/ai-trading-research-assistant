@@ -9,9 +9,9 @@ This deliberately implements only steps 1–4 of the larger product vision
 It does **not** run backtests, fetch market data, or execute trades.
 
 ## Live demo
-- Deployed URL: `<add after deploying to Vercel>`
-- GitHub repo: `<add repo URL>`
-- Screen recording: `<add link>`
+- Deployed URL: https://ai-trading-research-assistant-sooty.vercel.app
+- GitHub repo: https://github.com/Yashtyagi2406/ai-trading-research-assistant
+- Screen recording: `<add link after recording>`
 
 ## Architecture
 
