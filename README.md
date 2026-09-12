@@ -11,7 +11,7 @@ It does **not** run backtests, fetch market data, or execute trades.
 ## Live demo
 - Deployed URL: https://ai-trading-research-assistant-sooty.vercel.app
 - GitHub repo: https://github.com/Yashtyagi2406/ai-trading-research-assistant
-- Screen recording: `screen_recording_demo.webp` (local file — share via Drive/Loom before submitting)
+- Screen recording: https://drive.google.com/file/d/18ABel4vokpxIDo4ebL428rO0M_xxr_zO/view?usp=sharing
 
 ## Architecture
 
